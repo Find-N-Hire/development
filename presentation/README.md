@@ -71,6 +71,7 @@ Our proposed solution is to develop a comprehensive and user-centric platform ca
 
 
 # Design
+![End User Design](https://github.com/Find-N-Hire/development/blob/bada571c68991940d99e946d4e11d462a176ddee/presentation/enduser_design.jpg)
 1. User Registration/Login:
    * Users register or log in to their accounts using their email address or social media credentials.
 
