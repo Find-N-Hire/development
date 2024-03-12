@@ -70,6 +70,68 @@ Our proposed solution is to develop a comprehensive and user-centric platform ca
    * Regularly monitor key performance indicators and analytics data to identify areas for improvement and optimization.
 
 
+# Requirements
+## Functional Requirements:
+1. User Registration and Authentication:
+   * Users should be able to register and log in to their accounts securely using email or social media credentials.
+
+2. Service Listings:
+   * The platform should display a comprehensive list of professional services available for booking, categorized by industry or type.
+
+3. Search and Filtering:
+   * Users should be able to search for services based on various criteria such as location, category, availability, and ratings.
+
+4. Service Provider Profiles:
+   * Each service provider should have a detailed profile page showcasing their portfolio, reviews, pricing, availability, and contact information.
+
+5. Booking and Scheduling:
+   * Users should be able to book appointments with service providers based on their availability and preferences.
+
+6. Payment Processing:
+   * The platform should support secure payment processing for users to make payments for booked services.
+
+7. Communication Channels:
+   * Users and service providers should have secure communication channels within the platform to discuss details and coordinate appointments.
+
+8. Feedback and Reviews:
+   * Users should be able to leave feedback and reviews for service providers after the service is completed.
+
+## Non-Functional Requirements:
+1. Security:
+   * The platform should adhere to industry-standard security practices to protect user data and transactions.
+    
+2. Performance:
+   * The platform should be optimized for performance to ensure fast load times and responsiveness.
+     
+3. Scalability:
+   * The platform should be designed to scale easily to accommodate a growing user base and increasing service listings.
+     
+4. Reliability:
+   * The platform should be reliable and available, with minimal downtime and robust error handling.
+     
+5. Accessibility:
+   * The platform should be accessible to users with disabilities, following accessibility standards such as WCAG.
+     
+## Technical Requirements:
+1. Frontend Development:
+   * Development of a user-friendly and responsive frontend interface using HTML, CSS, and JavaScript frameworks such as React.js or Vue.js.
+
+2. Backend Development:
+   * Development of a robust backend infrastructure using server-side technologies such as Node.js, Python Django, or Ruby on Rails.
+
+3. Database Management:
+   * Implementation of a scalable and efficient database management system (DBMS) to store user data, service listings, and transaction records.
+
+4. API Integration:
+   * Integration with third-party APIs for services such as payment processing, geolocation, and communication.
+
+5. Deployment and Hosting:
+   * Deployment of the platform on a reliable hosting provider such as AWS, Azure, or Google Cloud Platform, ensuring high availability and scalability.
+
+6. Version Control:
+   * Use of version control systems such as Git for collaborative development and code management.
+
+
 # Design
 ![End User Design](https://github.com/Find-N-Hire/development/blob/bada571c68991940d99e946d4e11d462a176ddee/presentation/enduser_design.jpg)
 1. User Registration/Login:
